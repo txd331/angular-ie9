@@ -1,4 +1,4 @@
-# AngularIe9 support
+# Angular ie9 support
 
 This project is a demo for angular IE9+ support
 
